@@ -19,3 +19,5 @@ const ContactFormPage = () => (
     </form>
   </Layout>
 )
+
+export default ContactFormPage
